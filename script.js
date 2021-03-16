@@ -1,125 +1,125 @@
 const pagina = `<section class="boxes">
 <figure>
-    <img src="assets/aviao(3).jpg"alt="Avião-Beluga">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(3).jpg?v=1615915845253" alt="Avião-Beluga">
     <figcaption>
         <h2>Avião-Beluga</h2>
         <h4>R$337.400</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(5).jpg" alt="Avião-Tubarão">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(5).jpg?v=1615915845253" alt="Avião-Tubarão">
     <figcaption>
         <h2>Avião-Tubarão</h2>
         <h4>R$163.390</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(11).jpg" alt="Avião-Minimalista">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(11).jpg?v=1615915845253" alt="Avião-Minimalista">
     <figcaption>
         <h2>Avião-Minimalista</h2>
         <h4>R$71.100</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(14).jpg" alt="Avião 4 andares">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(14).jpg?v=1615915845253" alt="Avião 4 andares">
     <figcaption>
         <h2>Avião 4 andares</h2>
         <h4>R$327.500</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(1).jpg" alt="Avião-Delta">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(1).jpg?v=1615915845253 alt="Avião-Delta">
     <figcaption>
         <h2>Avião-Delta</h2>
         <h4>R$450.470</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(40).jpg" alt="Avião-Obeso">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(40).jpg?v=1615915845253" alt="Avião-Obeso">
     <figcaption>
         <h2>Avião-Obeso</h2>
         <h4>R$340.000</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(19).jpg" alt="Avião-Resort">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(19).jpg?v=1615915845253" alt="Avião-Resort">
     <figcaption>
         <h2>Avião-Resort</h2>
         <h4>R$879.700</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(20).jpg" alt="Avião-Turbina">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(20).jpg?v=1615915845253" alt="Avião-Turbina">
     <figcaption>
         <h2>Avião-Turbina</h2>
         <h4>R$400.000</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(15).jpg" alt=""O Avião>
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(15).jpg?v=1615915845253" alt=""O Avião>
     <figcaption>
         <h2>O Avião</h2>
         <h4>R$1.324.000</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(13).jpg" alt="Avião-Bicicleta">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(13).jpg?v=1615915845253" alt="Avião-Bicicleta">
     <figcaption>
         <h2>Avião-Bicicleta</h2>
         <h4>R$10.000</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(17).jpg" alt="Avião 6 andares">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(17).jpg?v=1615915845253" alt="Avião 6 andares">
     <figcaption>
         <h2>Avião 6 andares</h2>
         <h4>R$618.800</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(8).jpg" alt="Avião-Ventilador">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(8).jpg?v=1615915845253" alt="Avião-Ventilador">
     <figcaption>
         <h2>Avião-Ventilador</h2>
         <h4>R$120.200</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(6).jpg" alt="Avião-Dirigível">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(6).jpg?v=1615915845253" alt="Avião-Dirigível">
     <figcaption>
         <h2>Avião-Dirigível</h2>
         <h4>R$390.500</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(4).jpg" alt="Avião-Porco">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(4).jpg?v=1615915845253" alt="Avião-Porco">
     <figcaption>
         <h2>Avião-Porco</h2>
         <h4>R$170.000</h4>
     </figcaption>
 </figure>	
 <figure>
-    <img src="assets/aviao(24).jpg" alt="Avião-Águia">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(24).jpg?v=1615915845253" alt="Avião-Águia">
     <figcaption>
         <h2>Avião-Águia</h2>
         <h4>R$190.150</h4>
     </figcaption>
 </figure>	
 <figure>
-    <img src="assets/aviao(7).jpg" alt="Avião-Pássaro">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(7).jpg?v=1615915845253" alt="Avião-Pássaro">
     <figcaption>
         <h2>Avião-Pássaro</h2>
         <h4>R$230.000</h4>
     </figcaption>
 </figure>	
 <figure>
-    <img src="assets/aviao(10).jpg" alt="Mini-Avião">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(10).jpg?v=1615915845253" alt="Mini-Avião">
     <figcaption>
         <h2>Mini-Avião</h2>
         <h4>R$50.000</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="assets/aviao(22).jpg" alt="Avião-Nave">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(22).jpg?v=1615915845253" alt="Avião-Nave">
     <figcaption>
         <h2>Avião-Nave</h2>
         <h4>R$1.060.900</h4>
