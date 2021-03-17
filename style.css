@@ -22,14 +22,14 @@ header{
 }
     
 main{
-    min-height: 2600px;
+    min-height: 2300px;
     border: 2px solid black;
     border-bottom: none;
     width: 95%;
     margin: 0 auto;
     background-color: cornflowerblue;
     padding: 15px;
-    max-height: 
+    max-height: 2600px 
 }
 
 #top{
