@@ -125,6 +125,9 @@ const pagina = `<section class="boxes">
         <h4>R$1.060.900</h4>
     </figcaption>
 </figure>
+<div id="aviso">
+<b>*Atenção*</b><br>
+<p>nós não realizamos reembolso, política da empresa. Pense bem antes de realizar sua compra!</p>
 </section>`
 
 document.write(pagina)
