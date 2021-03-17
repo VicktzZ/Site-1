@@ -22,20 +22,25 @@ header{
 }
     
 main{
-    min-height: 2300px;
+    min-height: 2380px;
     border: 2px solid black;
     border-bottom: none;
     width: 95%;
     margin: 0 auto;
     background-color: cornflowerblue;
-    padding: 15px;
-    max-height: 2600px 
+    padding: 15px;    
 }
 
 #top{
     min-height: 275px;
     width: 65%;
     float: left;
+}
+
+article{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(41, 88, 175);
 }
 
 aside{
@@ -83,6 +88,23 @@ figcaption{
     text-shadow: 2px 2px 2px blueviolet;
     text-indent: 10px;
     
+}
+
+#aviso{
+    border: 2px solid black;
+    height: 110px;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    float: left;
+    margin-top: 45px;
+    text-align: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+#aviso b{
+    color: red
 }
 
 footer{
