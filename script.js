@@ -91,35 +91,35 @@ const pagina = `<section class="boxes">
     </figcaption>
 </figure>
 <figure>
-    <img src="images/aviao(4).jpg" alt="Avião-Porco">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(4).jpg?v=1615915845253.jpg" alt="Avião-Porco">
     <figcaption>
         <h2>Avião-Porco</h2>
         <h4>R$170.000</h4>
     </figcaption>
 </figure>	
 <figure>
-    <img src="images/aviao(24).jpg" alt="Avião-Águia">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(24).jpg?v=1615915845253.jpg" alt="Avião-Águia">
     <figcaption>
         <h2>Avião-Águia</h2>
         <h4>R$190.150</h4>
     </figcaption>
 </figure>	
 <figure>
-    <img src="images/aviao(7).jpg" alt="Avião-Pássaro">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(7).jpg?v=1615915845253.jpg" alt="Avião-Pássaro">
     <figcaption>
         <h2>Avião-Pássaro</h2>
         <h4>R$230.000</h4>
     </figcaption>
 </figure>	
 <figure>
-    <img src="images/aviao(10).jpg" alt="Mini-Avião">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(10).jpg?v=1615915845253.jpg" alt="Mini-Avião">
     <figcaption>
         <h2>Mini-Avião</h2>
         <h4>R$50.000</h4>
     </figcaption>
 </figure>
 <figure>
-    <img src="images/aviao(22).jpg" alt="Avião-Nave">
+    <img src="https://cdn.glitch.com/7789c622-05d2-4c84-8a6a-21e3d30fc299%2Faviao(22).jpg?v=1615915845253.jpg" alt="Avião-Nave">
     <figcaption>
         <h2>Avião-Nave</h2>
         <h4>R$1.060.900</h4>
