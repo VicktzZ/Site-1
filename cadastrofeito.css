@@ -45,6 +45,8 @@ footer{
     text-align: center;
     align-items: center;
     margin: 0 auto;
+    position: sticky; 
+    bottom: 0px;
 }
 
 main div{
@@ -57,7 +59,8 @@ main div{
 
 main a{
     display: block;
-    width: 100%;
+    width: 40px;
+    margin: 0 auto;
 }
 
 main button{

@@ -20,10 +20,6 @@ header{
     border: 3px solid black;
     background-color: cadetblue;
 }
-
-header a{
-    text-decoration: none;
-}
     
 main{
     min-height: auto;
@@ -46,8 +42,4 @@ footer{
     margin: 0 auto;
     position: sticky; 
     bottom: 0px;
-}
-
-section div b{
-    color: red;
 }

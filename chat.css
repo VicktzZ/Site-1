@@ -68,4 +68,6 @@ footer{
     text-align: center;
     align-items: center;
     margin: 0 auto;
+    position: sticky; 
+    bottom: 0px;
 }
