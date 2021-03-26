@@ -4,44 +4,32 @@
 		<title>Vitão Airlines</title>
 		<meta charset="utf-8">
 		<meta charset="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="cadastro.css">
+		<link rel="stylesheet" type="text/css" href="css/global/form.css">
+		<link rel="stylesheet" type="text/css" href="css/cadastro.css">
 	</head>	
 	<body>	
 		<header>
 			<div>
-				<a href="index.html">
-					<h1>Vitão Airlines</h1></a>	
-				<h3>SEJA BEM VINDO!</h3>
-				<a href="login.html">
-					<button>Login</button>
-				</a>
-				<button>Sign Up</button>
-				<a href="contato.html">
-					<button>Contato</button>
-				</a>
-				<a href="chat.html">
-					<button>Chat</button>
-				</a>
+				<a href="index.html"> <h1>Vitão Airlines</h1> <h3>SEJA BEM VINDO!</h3> </a>
+			</div>
+			<div id="botoes">
+				<a href="login.html"> Login </a>
+				<a href="cadastro.html"> Sign Up </a>
+				<a href="contato.html"> Contato </a>
+				<a href="chat.html"> Chat </a>
+				<a href="jogos.html"> Jogos </a>
 			</div>
 		</header>
 		<main> 
-			<section id="top">
+			<section class="sform">
 				<form action="cadastrofeito.html">
-					<div>
-						<h4>Nome:<b>*</b></h4>
-						<input type="text" required>
-						<h4>Email:<b>*</b></h4>
-						<input type="text" required>
-						<h4>Senha:<b>*</b></h4>
-						<input type="password" required>
-						<h4>Confirmar senha:<b>*</b></h4>
-						<input type="password" required>
-						<h4>Data de nascimento:<b>*</b></h4>
-						<input type="date" required>
-						<h4>Telefone:</h4>
-						<input type="number">
-						<button>Cadastrar</button>
-					</div>
+					<h4>Nome:<b>*</b></h4> <input type="text" required>
+					<h4>Email:<b> * </b> </h4> <input type="email" required>
+					<h4>Senha:<b>*</b></h4> <input type="password" required>
+					<h4>Confirmar senha:<b>*</b></h4> <input type="password" required>
+					<h4>Data de nascimento:<b>*</b></h4> <input type="date" required>
+					<h4>Telefone:</h4> <input type="number">
+					<button>Cadastrar</button>
 				</form>
 			</section>
 			<aside> 
@@ -53,6 +41,6 @@
 				<img src='https://megacontador.com.br/img-rGX	8CSq61kicAzHV-56.gif' border='1' alt='Contador de visitas'>
 			</div>
 		</footer>
-		<script src="senha.js"></script>
+		<script src="js/senha.js"></script>
 	</body>
 </html>

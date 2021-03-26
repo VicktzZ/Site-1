@@ -1,0 +1,14 @@
+@import url("global/global.css");  
+
+article{
+    border: black solid 2px;
+    background-color: #fff; 
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+main{
+    display: grid;
+    align-items: center;
+}

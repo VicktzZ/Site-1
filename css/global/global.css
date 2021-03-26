@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(120, 120, 120); 
+    font-family: 'Segoe Ui', 'Lucida Sans Regular';
+    min-width: 850px;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    border: 3px solid black;
+    background-color: rgb(190, 39, 39);
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 4%;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+    position: sticky;
+    top: 0px;
+    text-shadow: 2px 2px 2px gray;
+    text-align: left;
+    width: 100%;
+    font-family: 'Segoe UI', 'Lucida Sans Regular';
+}
+
+header a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    width: 230px;
+}
+
+main{
+    min-height: 67vh;
+    border: 2px solid black;
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(200, 200, 200);
+    padding: 15px;
+}
+
+#botoes{
+    text-align: center;
+    line-height: 35px;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(5, 1fr);
+    padding-right: 20px;
+    gap: 40px;
+}
+
+#botoes a{
+    height: 40px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: white;
+    border: solid black 2px;
+    font-family: 'Segoe UI', 'Lucida Sans Regular';
+    text-shadow: none;
+    font-size: 18px;
+    font-weight: bolder;
+    box-shadow: 2px 2px 2px black ;
+}
+
+#botoes a:hover{
+    background-color:rgb(220, 220, 220);
+    font-size: 125%;
+}
+#botoes a:active{
+    background-color: lightgray;
+    font-size: 110%;
+}
+
+footer{
+    border: 2px solid black;
+    display: grid;
+    background-color:rgb(190, 39, 39);
+    height: 73px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
