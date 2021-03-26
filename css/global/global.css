@@ -51,14 +51,15 @@ main{
     line-height: 35px;
     display: grid;
     align-items: center;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     padding-right: 20px;
     gap: 40px;
 }
 
-#botoes a{
+#botoes a, #botoes div{
     height: 40px;
     width: 100%;
+    min-width: 100px;
     border-radius: 10px;
     background-color: white;
     border: solid black 2px;
@@ -69,6 +70,15 @@ main{
     box-shadow: 2px 2px 2px black ;
 }
 
+#botoes div, #botoes img{
+    border-radius: 60px;
+    width: 40px;
+    min-width: 0;
+    height: 40px;
+    margin: auto;
+    cursor: pointer;
+}
+
 #botoes a:hover{
     background-color:rgb(220, 220, 220);
     font-size: 125%;
@@ -76,6 +86,23 @@ main{
 #botoes a:active{
     background-color: lightgray;
     font-size: 110%;
+}
+
+#modal{
+    border: solid black 2px;
+    z-index: 3;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 15px;
+    right: 350px; 
+    background-color: rgb(240, 240, 240);
+    cursor: initial;
+    display: none;
+    grid-template-rows: 4;
+    transition: display 5s ease 10s;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px; 
 }
 
 footer{

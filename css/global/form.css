@@ -32,10 +32,9 @@ button{
 
 form {
     padding: 15px;
-    
 }
 
-h4{
+form h4{
     text-align: left;
     width: 100%;
 }
