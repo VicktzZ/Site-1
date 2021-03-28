@@ -6,6 +6,7 @@
     min-height: 300px;
     width: 100%;
     text-align: center;
+    box-shadow: black 2px 2px 8px;
 }
 
 #top{
